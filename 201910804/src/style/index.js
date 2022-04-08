@@ -37,22 +37,7 @@ const styles = StyleSheet.create({
         padding: 10,
         borderRadius: 40,
     },
-      buttonFlip: {
-        position: "absolute",
-        bottom: 50,
-        left: 30,
-        justifyContent: "center",
-        alignItems: "center",
-        backgroundColor: "#FF5F00",
-        margin: 20,
-        width: 50,
-        height: 50,
-        borderRadius: 50,
-      },
-      contentPhoto: {
-        flex: 1,
-        margin: 10,
-      },
+    
 });
 
 export default styles;
